@@ -1,0 +1,77 @@
+{
+  "Key": "Evses[0].EvseCode",
+  "Value": "NZ-TG1-0889-02"
+},
+{
+  "Key": "CentralSystem.Client.Servers[0].Url",
+  "Value": "wss://thundergrid-nz.etrel.com/Starfish.WebSockets/api/OCPP1_6/"
+},
+{
+  "Key": "CentralSystem.Identity",
+  "Value": "NETBOX_DEVICE_SERIAL_NUMBER_2",
+},
+{
+  "Key": "Gui.Cultures",
+  "Value": "en-GB"
+},
+{
+  "Key": "Network.Gsm.Apn",
+  "Value": "m2mone.co.nz"
+},
+{
+  "Key": "Network.Lan.IP4.Address",
+  "Value": "192.168.1.69"
+},
+        {
+  "Key": "Network.Lan.IP4.DhcpEnabled",
+  "Value": "False"
+},
+{
+  "Key": "Network.Lan.IP4.PrimaryDns",
+  "Value": "192.168.1.1"
+},
+{
+  "Key": "Network.Lan.IP4.SecondaryDns",
+  "Value": "1.1.1.1"
+},
+{
+  "Key": "Network.Lan.IP4.ObtainDnsServerAddressAuto",
+  "Value": "False"
+},
+{
+  "Key": "Network.Lan.IP4.Netmask",
+  "Value": "255.255.255.0"
+},
+{
+  "Key": "Network.Lan.IP4.Gateway",
+  "Value": "192.168.1.1"
+},
+{
+  "Key": "Evses[0].GridConnection.ConnectedToASinglePhase",
+  "Value": "False"
+},
+{
+  "Key": "Evses[0].GridConnection.EvseL1ConnectedToPhase",
+  "Value": "L1"
+},
+{
+  "Key": "Evses[0].GridConnection.EvseL2ConnectedToPhase",
+  "Value": "L2"
+},
+{
+  "Key": "Evses[0].GridConnection.EvseL3ConnectedToPhase",
+  "Value": "L3"
+},
+{
+  "Key": "Evses[0].Connectors[0].CustomMaxCurrent",
+  "Value": "32"
+},
+
+{
+  "Key": "PowerManagement.PrimaryMaster.IsEnabled",
+  "Value": "True"
+},
+{
+  "Key": "PowerManagement.MaxOutputCurrWhenClusterCommFails",
+  "Value": "6"
+}
